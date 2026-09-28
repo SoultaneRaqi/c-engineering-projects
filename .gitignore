@@ -1,0 +1,13 @@
+# CLion and JetBrains IDEs
+.idea/
+cmake-build-*/
+
+# Compiled Object files
+*.o
+*.out
+
+# OS generated files
+.DS_Store
+
+# We will ignore compiled executables later if they don't have extensions
+
